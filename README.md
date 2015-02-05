@@ -9,5 +9,5 @@ Download or clone project and run
 ######Windows
 Download project and extract it than run lolping
 
-    https://github.com/jsparber/lolping/archive/windows.zip
+    [Download project](https://github.com/jsparber/lolping/archive/windows.zip)
 
